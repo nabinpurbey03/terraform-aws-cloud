@@ -1,1 +1,1 @@
-region = "up-south-1"
+region = "ap-south-1"
